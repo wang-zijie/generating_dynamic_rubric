@@ -96,6 +96,16 @@ python src/eval_prometheus2.py --benchmark alpacaeval --model prometheus-eval/pr
 | ProfBench | Pointwise | nvidia/ProfBench |
 | HealthBench | Pointwise | openai/healthbench |
 
+## Rubric Generator Models
+### Base Models
+- Claude Sonnet 4
+- Llama 3.1 8B / 70B Instruct
+- Qwen3 14B
+  
+### Fine-tuned Models
+- Llama 3.1 8B Instruct
+- Qwen3 14B
+
 ## Judge Models
 
 - Claude Sonnet 4 (via AWS Bedrock)
