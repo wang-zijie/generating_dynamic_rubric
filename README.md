@@ -8,10 +8,6 @@ Code and data for the paper "Generating and Refining Dynamic Evaluation Rubrics 
 pip install -r requirements.txt
 ```
 
-For local model inference, also install:
-```bash
-pip install torch transformers peft bitsandbytes accelerate datasets vllm trl
-```
 
 Set environment variables for Bedrock API access:
 ```bash
