@@ -1,6 +1,6 @@
 # Generating and Refining Dynamic Evaluation Rubrics for LLM-as-a-Judge
 
-Code and data for the paper "Generating and Refining Dynamic Evaluation Rubrics for LLM-as-a-Judge" (ACL 2025).
+Code and data for the paper "Generating and Refining Dynamic Evaluation Rubrics for LLM-as-a-Judge".
 
 ## Setup
 
