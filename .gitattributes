@@ -1,0 +1,5 @@
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+data/alpacaeval/*.json filter=lfs diff=lfs merge=lfs -text
+outputs/**/rubric_candidates.json filter=lfs diff=lfs merge=lfs -text
+outputs/**/dpo_pairs.jsonl filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+*.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Model checkpoints (large)
+models/
+*.bin
+*.safetensors
+
+# Eval results (generated during evaluation, not tracked)
+outputs/pairwise/
+outputs/pointwise/
+outputs/checkeval/
+outputs/dna/
+outputs/rubrichub/
+outputs/prometheus2/
