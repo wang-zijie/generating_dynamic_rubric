@@ -106,6 +106,11 @@ python src/eval_prometheus2.py --benchmark alpacaeval --model prometheus-eval/pr
 - Llama 3.1 8B Instruct
 - Qwen3 14B
 
+#### Models Checkpoints
+
+[Huggingface repo](https://huggingface.co/zijiewang/Rubric_generator_LLM_Judge)
+
+
 ## Judge Models
 
 - Claude Sonnet 4 (via AWS Bedrock)
